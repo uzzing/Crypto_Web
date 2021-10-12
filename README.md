@@ -1,7 +1,6 @@
 # Martome(マートまとめ)_Web
 <h3>📍「サービス紹介」</h3>
 韓国の全国スーパーの商品情報をまとめて提供するウェブサイトサービス<br>
-The web service that show all mart's information such as products, location in the korea
 <br>
 <br>
 <h3>📍「企画背景」</h3>
